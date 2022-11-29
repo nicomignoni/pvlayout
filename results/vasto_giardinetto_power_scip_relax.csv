@@ -1,0 +1,2 @@
+time (s),node,LPiter,LPit/n,mdpt,cuts,sepa,confs,strbr,dualbound,primalbound,gap
+9265,21200,2632k,124.1,35,1440k,2,109,100,6.234017e+03,6.227638e+03,0.10%

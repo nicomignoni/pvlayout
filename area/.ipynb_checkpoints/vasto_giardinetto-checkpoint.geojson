@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-03T23:32:09Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/526402789",
+        "generator:method": "photovoltaic",
+        "generator:output:electricity": "yes",
+        "generator:source": "solar",
+        "generator:type": "solar_photovoltaic_panel",
+        "power": "generator"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15.5544421,
+              41.3635502
+            ],
+            [
+              15.5544401,
+              41.3625947
+            ],
+            [
+              15.5549485,
+              41.3624241
+            ],
+            [
+              15.5567084,
+              41.3634753
+            ],
+            [
+              15.5557211,
+              41.3643495
+            ],
+            [
+              15.5544421,
+              41.3635502
+            ]
+          ]
+        ]
+      },
+      "id": "way/526402789"
+    }
+  ]
+}

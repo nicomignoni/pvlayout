@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"generator": "overpass-ide",
+"copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+"timestamp": "2022-11-07T12:02:09Z",
+"name": "vasto_giardinetto_margin",
+"features": [
+{ "type": "Feature", "id": "way/526402789", "properties": { "@id": "way/526402789", "generator:method": "photovoltaic", "generator:output:electricity": "yes", "generator:source": "solar", "generator:type": "solar_photovoltaic_panel", "power": "generator" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15.554502801346398, 41.363542388803943 ], [ 15.554500924427646, 41.362645690869698 ], [ 15.554978037174658, 41.362485589700064 ], [ 15.556629631831358, 41.363472098196638 ], [ 15.55570309088894, 41.364292499383573 ], [ 15.554502801346398, 41.363542388803943 ] ] ] } }
+]
+}

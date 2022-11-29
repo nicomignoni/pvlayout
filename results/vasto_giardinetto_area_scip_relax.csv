@@ -1,0 +1,2 @@
+time$ & $node$ & $LPiter$ & $LPit/n$ & $mdpt$ & $cuts$ & $sepa$ & $dualbound$ & $primalbound$ & $gap
+7250s$ & $11800$ & $1778k$ & $150.6$ & $46$ & $713k$ & $20$ & $4.738092e+04$ & $4.742837e+04$ & $0.10%

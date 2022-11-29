@@ -1,0 +1,95 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.59 e21c39fe",
+  "osm3s": {
+    "timestamp_osm_base": "2022-11-03T10:26:00Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 682780319,
+  "nodes": [
+    6394847923,
+    6394847922,
+    6394847921,
+    6394847920,
+    8759653453,
+    6394847919,
+    6394847918,
+    6394847917,
+    6394847916,
+    6394847915,
+    6394847923
+  ],
+  "tags": {
+    "landuse": "industrial",
+    "plant:method": "photovoltaic",
+    "plant:source": "solar",
+    "power": "plant"
+  }
+},
+{
+  "type": "node",
+  "id": 6394847920,
+  "lat": 40.7222786,
+  "lon": 16.3642350
+},
+{
+  "type": "node",
+  "id": 6394847921,
+  "lat": 40.7226140,
+  "lon": 16.3639238
+},
+{
+  "type": "node",
+  "id": 6394847922,
+  "lat": 40.7228295,
+  "lon": 16.3639292
+},
+{
+  "type": "node",
+  "id": 6394847923,
+  "lat": 40.7231832,
+  "lon": 16.3642538
+},
+{
+  "type": "node",
+  "id": 6394847915,
+  "lat": 40.7231669,
+  "lon": 16.3660750
+},
+{
+  "type": "node",
+  "id": 6394847916,
+  "lat": 40.7231141,
+  "lon": 16.3661018
+},
+{
+  "type": "node",
+  "id": 6394847917,
+  "lat": 40.7218172,
+  "lon": 16.3658228
+},
+{
+  "type": "node",
+  "id": 6394847918,
+  "lat": 40.7219127,
+  "lon": 16.3650799
+},
+{
+  "type": "node",
+  "id": 6394847919,
+  "lat": 40.7220306,
+  "lon": 16.3646749
+},
+{
+  "type": "node",
+  "id": 8759653453,
+  "lat": 40.7220789,
+  "lon": 16.3645891
+}
+
+  ]
+}

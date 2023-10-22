@@ -1,6 +1,6 @@
 Simulation code for the paper "*Layout Optimization for Photovoltaic Panels in Solar Power Plants via a MINLP Approach*" [[TechRxiv](https://www.techrxiv.org/articles/preprint/Layout_Optimization_for_Photovoltaic_Panels_in_Solar_Power_Plants_via_a_MINLP_Approach/24239563)]
 
-### Cite as
+## Cite as
 ```
 @article{Mignoni2023,
   author = "Nicola Mignoni and Raffaele Carli and Mariagrazia Dotoli",
